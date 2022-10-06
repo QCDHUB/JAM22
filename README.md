@@ -1,1 +1,36 @@
 # JAM22
+# JAM20SIDIS: Simultaneous Monte Carlo analysis of parton densities and fragmentation functions
+
+## Authors
+
+- E. Moffat (ODU)
+- W. Melnitchouk (JLab)
+- T. C. Rogers (ODU/JLab)
+- N. Sato (JLab)
+
+## Reference
+
+arXiv:2101.04664 [hep-ph]
+
+## Abstract
+
+We present the first simultaneous global QCD analysis of spin-dependent parton distribution functions alongside their spin-averaged counterparts and pion, kaon, and unidentified hadron fragmentation functions. This analysis includes all data relevant for constraining the polarized light quark sea asymmetry 
+Δu¯-Δd¯, in particular the latest polarized W-lepton production data from the STAR Collaboration at RHIC and semi-inclusive deep inelastic scattering data from COMPASS, allowing the most robust extraction available with minimal theoretical assumptions. We also extract a self-consistent set of antiquark polarization ratios Δu¯/u¯ and Δd¯/d¯ and determine the signs of the truncated contributions to the proton spin from the light antiquarks.
+
+
+## Acknowledgements
+
+We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lepton and jet cross sec- tions, J. J. Ethier for his work on the W-lepton code and data collection, and P. C. Barry, P. Schweitzer and Y. Zhou for helpful discussions. This work was supported by the U.S. Department of Energy Contract No. DE- AC05-06OR23177, under which Jefferson Science Asso- ciates, LLC operates Jefferson Lab, and the National Science Foundation under grant number PHY-1516088. The work of C.C. and A.M. was supported by the U.S. Department of Energy, Office of Science, Office of Nu- clear Physics, within the framework of the TMD Topical Collaboration, and by Temple University (C.C.). The work of N.S. was supported by the DOE, Office of Sci- ence, Office of Nuclear Physics in the Early Career Pro- gram. This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Workforce Development for Teachers and Scientists, Office of Science Graduate Student Research (SCGSR) program. The SCGSR program is administered by the Oak Ridge Institute for Science and Education (ORISE) for the DOE. ORISE is managed by ORAU under con- tract number DE-SC0014664. All opinions expressed in this paper are the author’s and do not necessarily reflect the policies and views of DOE, ORAU, or ORISE.
+
+## Tables
+
+- proton PDFs
+- proton pol PDFs
+- pi+ FFs
+- K+ FFs (to come)
+- h+ FFs (to come)
+
+
+
+
+
