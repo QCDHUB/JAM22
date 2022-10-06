@@ -1,16 +1,15 @@
-# JAM22
-# JAM20SIDIS: Simultaneous Monte Carlo analysis of parton densities and fragmentation functions
-
+# JAM22: Polarized Antimatter in the Proton from Global QCD Analysis 
 ## Authors
 
-- E. Moffat (ODU)
+- C. Cocuzza (Temple U)
 - W. Melnitchouk (JLab)
-- T. C. Rogers (ODU/JLab)
+- A. Metz (Temple U)
 - N. Sato (JLab)
 
 ## Reference
 
-arXiv:2101.04664 [hep-ph]
+[link](https://inspirehep.net/literature/2029139)
+
 
 ## Abstract
 
