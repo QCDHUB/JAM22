@@ -23,7 +23,7 @@ We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lept
 
 ## Tables
 
-Note: 0000 is the mean of the replicas (except for the STFs)
+Note: 0000 is the mean of the replicas (except for the STFs, where it is a single replica)
 
 - proton spin-averaged PDFs
 - proton helicity PDFs
