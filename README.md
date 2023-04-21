@@ -23,11 +23,12 @@ We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lept
 
 ## Tables
 
-- proton PDFs
-- proton pol PDFs
-- pi+ FFs
-- K+ FFs (to come)
-- h+ FFs (to come)
+- proton spin-averaged PDFs
+- proton helicity PDFs
+- pion+ FFs
+- kaon+ FFs
+- hadron+ FFs
+- unpolarized structure functions (F2, FL, F3) for proton, neutron, deuteron, helium, tritium
 
 
 
