@@ -23,6 +23,8 @@ We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lept
 
 ## Tables
 
+Note: 0000 is the mean of the replicas.
+
 - proton spin-averaged PDFs
 - proton helicity PDFs
 - pion+ FFs
