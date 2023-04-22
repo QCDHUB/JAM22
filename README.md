@@ -23,7 +23,7 @@ We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lept
 
 ## Tables
 
-Note: 0000 is the mean of the replicas (except for the STFs, where it is a single replica)
+Note: The main directory contains both positive and negative gluon solutions.  The subdirectories pos_gluon and neg_gluon have them separated.
 
 - proton spin-averaged PDFs
 - proton helicity PDFs
