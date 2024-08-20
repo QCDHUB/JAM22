@@ -24,13 +24,17 @@ We thank F. Ringer and W. Vogelsang for the code used for calculating the W-lept
 ## Tables
 
 Note: The main directory contains both positive and negative gluon solutions.  The subdirectories pos_gluon and neg_gluon have them separated.
-
-- proton spin-averaged PDFs
-- proton helicity PDFs
-- pion+ FFs
-- kaon+ FFs
-- hadron+ FFs
-- unpolarized structure functions (F2, FL, F3) for proton, neutron, deuteron, helium, tritium
+The main directory contains results with all of the replicas, including both the positive and negative gluon solutions.  All results are at NLO.  The LHAPDF files for different functions are organized as follows:
+- JAM22-PDF_proton_nlo:  Proton spin-averaged PDFs
+- JAM22-PPDF_proton_nlo: Proton helicity PDFs
+- JAM22-FF_pion_nlo:   FFs for $\pi^+$
+- JAM22-FF_kaon_nlo:   FFs for $K^+$
+- JAM22-FF_hadron_nlo: FFs for unidentified hadrons $h^+$
+- JAM22-STF_proton:   Unpolarized structure functions (F2, FL, F3) for proton
+- JAM22-STF_neutron:  Unpolarized structure functions (F2, FL, F3) for neutron
+- JAM22-STF_deuteron: Unpolarized structure functions (F2, FL, F3) for deuteron
+- JAM22-STF_helium:   Unpolarized structure functions (F2, FL, F3) for helium
+- JAM22-STF_tritium:  Unpolarized structure functions (F2, FL, F3) for tritium
 
 
 
