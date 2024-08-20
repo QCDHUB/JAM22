@@ -34,7 +34,7 @@ The main directory contains results with all of the replicas, including both the
 - JAM22-STF_helium:   Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for helium
 - JAM22-STF_tritium:  Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for tritium
 
-In the directories pos_gluon and neg_gluon, the results are separated for the positive and negative gluon solutions, respectively.  The functions can be found using the same names above.
+In the directories pos_gluon and neg_gluon, the results are separated for the positive and negative gluon solutions, respectively.  The functions can be found using the same names above (the unpolarized structure functions are not included here).
 
 
 
