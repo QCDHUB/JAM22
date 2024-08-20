@@ -30,11 +30,11 @@ The main directory contains results with all of the replicas, including both the
 - JAM22-FF_pion_nlo:   FFs for $\pi^+$
 - JAM22-FF_kaon_nlo:   FFs for $K^+$
 - JAM22-FF_hadron_nlo: FFs for unidentified hadrons $h^+$
-- JAM22-STF_proton:   Unpolarized structure functions (F2, FL, F3) for proton
-- JAM22-STF_neutron:  Unpolarized structure functions (F2, FL, F3) for neutron
-- JAM22-STF_deuteron: Unpolarized structure functions (F2, FL, F3) for deuteron
-- JAM22-STF_helium:   Unpolarized structure functions (F2, FL, F3) for helium
-- JAM22-STF_tritium:  Unpolarized structure functions (F2, FL, F3) for tritium
+- JAM22-STF_proton:   Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for proton
+- JAM22-STF_neutron:  Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for neutron
+- JAM22-STF_deuteron: Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for deuteron
+- JAM22-STF_helium:   Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for helium
+- JAM22-STF_tritium:  Unpolarized structure functions ($F_2$, $F_L$, $F_3$) for tritium
 
 
 
